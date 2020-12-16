@@ -44,6 +44,7 @@ BOGOR6ETAR! TEAM WORK AND THE TIME CIU GANGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG"
 echo ""
 echo -e $green" 01) SMS GRATIS KE SEMUA OPERATOR"
 echo -e $green" 02) Downloader file apapun"
+echo -e $green" 69) VOCHER HOTEL "
 echo -e $green" 03) Hunner"
 echo -e $green" 04) WPScan"
 echo -e $green" 05) Webdav"
@@ -865,6 +866,25 @@ cd TheFatRat
 chmod +x setup.sh && ./setup.sh
 sleep 1
 echo -e $red" Done Install cuk "
+fi
+
+if [ $act = 69 ] || [ $act = 69 ]
+then
+clear
+echo -e $green" code vocher hotel seluruh bogor"
+sleep 1
+echo -e $red"kode vocher ...."
+echo -e $red" code hack by Mr.Rm19 ramdan maulana ganteng..."
+echo -e $red" vocher salak : I30XBTCP1MNO"
+echo -e $red" vocher whiz prime pajajaran : W0K41L0A9W "
+echo -e $red" vocher Royal pajajaran : WO0CPEFCM319"
+echo -e $red" vocher sahira bukit pakuan : O10XLLAW01"
+echo -e $red" vocher zest bogor : POL99XKEO01"
+echo -e $red" vocher elsana transit bogor : GO01KXLAWI"
+echo -e $red" apakah butuh vocher lain dan?"
+echo -e $red" bot vocher hacked bogor by oaiziwa "
+echo -e $red" credit by rmdan ganteng "
+echo -e $red" Hanya terbobol beberapa hotel saat ini "
 fi
 
 if [ $act = 54 ] || [ $act = 54 ]
